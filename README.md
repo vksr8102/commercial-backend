@@ -14,12 +14,12 @@
 
 	- One user with User role,
 	# Default User credentials
-	**username** : techpyrouser@gmail.com
+	**username** : user@gmail.com
 	**password** : FfylhhlAanYnOR1
 
 	- One user with Admin role,
 	# Default Admin credentials
-	**username** : techpyroamin@gmail.com
+	**username** : amin@gmail.com
 	**password** : 8fw_WjOL8D29Oez
 
 ## How to use generated APIs:
